@@ -1,4 +1,4 @@
-# Time-series
+# Time-series-Analysis
 # Introduction
 AS a database developer we normalize and denormalize database to organize a given database efficiently. It is a systematic approach to decompose a larger dataset into smaller ones that would  help us in from data redundancy.
 
