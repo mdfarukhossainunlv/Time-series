@@ -17,7 +17,7 @@ Our current datetime data can be tricky to work with, therefore, we will use the
 
 # Visualizing Furniture Sales Time Series Data
 
-Graph
+![graph1](https://user-images.githubusercontent.com/63221463/159135953-dca2eca6-ea1d-47ec-9121-0f18085cdee8.png)
 
 Some distinguishable patterns appear when we plot the data. The time-series has seasonality pattern, such as sales are always low at the beginning of the year and high at the end of the year. There is always an upward trend within any single year with a couple of low months in the mid of the year.
 We can also visualize our data using a method called time-series decomposition that allows us to decompose our time series into three distinct components: trend, seasonality, and noise.
